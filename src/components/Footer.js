@@ -18,9 +18,11 @@ const Footer = () => {
               alt=""
               className="w-[24px] h-[24px] relative left-[10px] top-[10px]"
             />
-            <p className="text-white font-[400] text-[18px] leading-[27px] text-left relative right-[10px] top-[10px]">
-              Home
-            </p>
+            <a href="#home">
+              <p className="text-white font-[400] text-[18px] leading-[27px] text-left relative right-[10px] top-[10px]">
+                Home
+              </p>
+            </a>
           </div>
           <div className="w-[143px] h-[47px] relative flex justify-between ">
             <img
@@ -28,9 +30,11 @@ const Footer = () => {
               alt=""
               className="w-[24px] h-[24px] relative left-[10px] top-[10px]"
             />
-            <p className="text-white font-[400] text-[18px] leading-[27px] text-left relative right-[10px] top-[10px]">
-              About Me
-            </p>
+            <a href="#aboutMe">
+              <p className="text-white font-[400] text-[18px] leading-[27px] text-left relative right-[10px] top-[10px]">
+                About Me
+              </p>
+            </a>
           </div>
           <div className=" w-[128px] h-[47px] relative flex justify-between ">
             <img
@@ -38,9 +42,11 @@ const Footer = () => {
               alt=""
               className="w-[24px] h-[24px] relative left-[10px] top-[10px]"
             />
-            <p className="text-white font-[400] text-[18px] leading-[27px] text-left relative right-[10px] top-[10px]">
-              Contact
-            </p>
+            <a href="#contact">
+              <p className="text-white font-[400] text-[18px] leading-[27px] text-left relative right-[10px] top-[10px]">
+                Contact
+              </p>
+            </a>
           </div>
         </div>
       </div>

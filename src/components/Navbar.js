@@ -17,7 +17,7 @@ const Navbar = () => {
     <div className={navbar ? "navbar-fixed" : "navbar"}>
       <div className="w-[301px] h-[132px] pl-[96px] pr-[96px] pt-[48px] pb-[48px]">
         <p className="text-[#EEEEEE] font-['Oswald'] not-italic font-[700] text-[24px] leading-[36px]">
-          SaulDegisn
+          MyPortofolio
         </p>
       </div>
       <div className=" relative flex w-[502px] h-[123px] justify-center pr-[96px] pl-[96px] pt-[48px] pb-[48px]">
