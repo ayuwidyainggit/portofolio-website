@@ -5,14 +5,14 @@ import img3 from "../assets/img3.png";
 
 const Jumbotron = () => {
   return (
-    <div className="h-[1024px] relative flex bg-[#222831] ">
-      <div className="  w-[50%] relative flex justify-between">
-        <div className=" relative flex justify-end top-[385px] w-[89.96px] h-[221.69px] left-[72px]">
-          <img src={img3} alt="" className="" />
+    <div className="  h-[1024px] relative lg:flex bg-[#222831] sm:block">
+      <div className="  lg:w-[50%] relative flex justify-between">
+        <div className=" relative lg:flex  justify-end lg:top-[385px] w-[89.96px] h-[221.69px] lg:left-[72px] ">
+          <img src={img3} alt="" className="  " />
         </div>
-        <div className="  relative  justify-end top-[334px] left-[50px] w-[586px] h-[287px] ">
-          <h1 className="text-white font-[700] text-[60px] leading-[96px] text-left">
-            Ayu Widya Inggit{" "}
+        <div className="  relative  justify-end lg:top-[334px] left-[50px] w-[586px] h-[287px] ">
+          <h1 className="text-white font-[700]  text-[60px] md:text-[40px] md-[50px] leading-[96px] text-left">
+            Ayu Widya Inggit
             <span className="text-[#00ADB5]">Front End Developer</span>
           </h1>
           <div className=" relative flex w-[383px] h-[47px] justify-between">
