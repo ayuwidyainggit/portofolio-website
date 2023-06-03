@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Website-ecommerce/static/css/main.18da06c7.css",
+    "main.js": "/Website-ecommerce/static/js/main.ba8cb47c.js",
+    "static/js/787.ea239401.chunk.js": "/Website-ecommerce/static/js/787.ea239401.chunk.js",
+    "static/media/project1.png": "/Website-ecommerce/static/media/project1.fd834cecbe956eddd61c.png",
+    "static/media/project2.png": "/Website-ecommerce/static/media/project2.76cdf471b2e901a459ed.png",
+    "static/media/project3.png": "/Website-ecommerce/static/media/project3.9c1546b0a393e2a34ad8.png",
+    "static/media/project4.png": "/Website-ecommerce/static/media/project4.7206b97acd1fe1af7c70.png",
+    "static/media/doodle items.png": "/Website-ecommerce/static/media/doodle items.26d1195b3b8ab4501460.png",
+    "static/media/bg1.png": "/Website-ecommerce/static/media/bg1.84906a252d0c982939be.png",
+    "static/media/linkedin.png": "/Website-ecommerce/static/media/linkedin.81956fd56abbdaebbd94.png",
+    "static/media/github.png": "/Website-ecommerce/static/media/github.0e74f17c4b316875f5d3.png",
+    "static/media/gitlab.png": "/Website-ecommerce/static/media/gitlab.c3b1dcfdfda9aa721677.png",
+    "static/media/bg2.png": "/Website-ecommerce/static/media/bg2.05b9893281e9b2f4d11e.png",
+    "static/media/bg-aboutme2.png": "/Website-ecommerce/static/media/bg-aboutme2.b3a578017a7ac1a7f490.png",
+    "index.html": "/Website-ecommerce/index.html",
+    "main.18da06c7.css.map": "/Website-ecommerce/static/css/main.18da06c7.css.map",
+    "main.ba8cb47c.js.map": "/Website-ecommerce/static/js/main.ba8cb47c.js.map",
+    "787.ea239401.chunk.js.map": "/Website-ecommerce/static/js/787.ea239401.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18da06c7.css",
+    "static/js/main.ba8cb47c.js"
+  ]
+}
